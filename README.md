@@ -1,10 +1,10 @@
 # Hi there, I'm Justyna! 👋
 
-I am a C++ and software development enthusiast focused on algorithms, data structures, and low-level programming. I love building custom implementations of complex systems to truly understand how they work under the hood.
+I am a C++ and Python software development enthusiast focused on algorithms, data structures, and low-level programming. I love building custom implementations of complex systems to truly understand how they work under the hood.
 
 ---
 
-### 💻 Core Projects & Portfolio
+### 💻 Core C++ Projects
 
 Here are some of the key projects you can find in my repositories:
 
@@ -17,11 +17,12 @@ Here are some of the key projects you can find in my repositories:
 
 ### 🛠️ Tech Stack & Tools
 
-&emsp;&emsp;&emsp;&emsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+&emsp;&emsp;&emsp;&emsp;![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+
 
 *   **Concepts:** Data Structures, Object-Oriented Programming (OOP), Memory Management, Design Patterns
 *   **Tools:** Git, GitHub, GitLab, CMake, Linux, CLion, PyCharm, VS Code
